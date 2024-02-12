@@ -1,0 +1,3 @@
+// UYGA VAZIFA
+
+// object1
